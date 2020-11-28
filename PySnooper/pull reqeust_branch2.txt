@@ -1,0 +1,2 @@
+branch2에서 pull request 요청합니다.
+merge 해주세요.
